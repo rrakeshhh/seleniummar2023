@@ -1,0 +1,26 @@
+Generic KeyWords-
+openbrowser
+navigate
+click
+type 
+select
+getText
+
+Validation keyWords-
+validateTitle
+validateText
+validateElementPresent
+
+Application Dependent KeyWords-
+login
+selectDateFromCalendar
+verifyStockAdded
+
+
+
+
+
+
+
+#m.rakesh2911@gmail.com
+#Rakesh2911
